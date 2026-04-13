@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .vegas one-word domains from Uniqu
 
 **Public extract:** 9,060 rows · **Live catalog:** 9,060 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/vegas`  
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------- |
 | nationwide.vegas | available | $64.98    | —             | 76             | 66     | 10     | namecheap                                                        |
-| prime.vegas      | resell    | —         | —             | 76             | 82     | 5      | GoDaddy.com, LLC                                                 |
+| order.vegas      | resell    | $64.98    | —             | 78             | 40     | 5      | Porkbun LLC                                                      |
 | hello.vegas      | premium   | $8,290.32 | —             | 92             | 70     | 5      | Squarespace Domains II LLC                                       |
 | seventeen.vegas  | available | $64.98    | —             | 84             | 62     | 9      | namecheap                                                        |
-| name.vegas       | resell    | —         | —             | 82             | 76     | 4      | Porkbun LLC                                                      |
+| prime.vegas      | resell    | —         | —             | 76             | 82     | 5      | GoDaddy.com, LLC                                                 |
 | good.vegas       | premium   | $250      | $124.94       | 82             | 55     | 4      | name.com                                                         |
 | simple.vegas     | available | $64.98    | —             | 128            | 48     | 6      | namecheap                                                        |
-| discover.vegas   | resell    | —         | —             | 66             | 75     | 8      | Dynadot Inc                                                      |
+| name.vegas       | resell    | —         | —             | 82             | 76     | 4      | Porkbun LLC                                                      |
 | zero.vegas       | premium   | $250      | $124.94       | 112            | 53     | 4      | name.com                                                         |
 | genius.vegas     | available | $64.98    | —             | 98             | 45     | 6      | namecheap                                                        |
-| fuck.vegas       | resell    | —         | —             | 124            | 70     | 4      | NameCheap, Inc.                                                  |
+| discover.vegas   | resell    | —         | —             | 66             | 75     | 8      | Dynadot Inc                                                      |
 | big.vegas        | premium   | $250      | $124.94       | 88             | 48     | 3      | name.com                                                         |
+| mix.vegas        | available | $64.98    | —             | 66             | 45     | 3      | namecheap                                                        |
+| fuck.vegas       | resell    | —         | —             | 124            | 70     | 4      | NameCheap, Inc.                                                  |
+| car.vegas        | premium   | $260      | $129.94       | 94             | 46     | 3      | namecheap                                                        |
 | micro.vegas      | available | $29.99    | —             | 66             | 45     | 5      | name.com                                                         |
 | get.vegas        | resell    | —         | —             | 88             | 69     | 3      | $$$ Private Label Internet Service Kiosk, Inc. (dba "PLISK.com") |
-| car.vegas        | premium   | $260      | $129.94       | 94             | 46     | 3      | namecheap                                                        |
-| forge.vegas      | available | $64.98    | —             | 62             | 45     | 5      | namecheap                                                        |
-| better.vegas     | resell    | —         | —             | 110            | 56     | 6      | GoDaddy.com, LLC                                                 |
 | auto.vegas       | premium   | $260      | $129.94       | 68             | 45     | 4      | namecheap                                                        |
-| mix.vegas        | available | $64.98    | —             | 66             | 44     | 3      | namecheap                                                        |
+| forge.vegas      | available | $64.98    | —             | 62             | 45     | 5      | namecheap                                                        |
 | book.vegas       | resell    | —         | —             | 82             | 55     | 4      | NameSilo, LLC                                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
