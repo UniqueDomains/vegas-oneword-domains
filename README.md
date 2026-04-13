@@ -70,7 +70,7 @@ print(df.head())
 | seventeen.vegas  | available | $64.98    | —             | 84             | 62     | 9      | namecheap                                                        |
 | prime.vegas      | resell    | —         | —             | 76             | 82     | 5      | GoDaddy.com, LLC                                                 |
 | good.vegas       | premium   | $250      | $124.94       | 82             | 55     | 4      | name.com                                                         |
-| simple.vegas     | available | $64.98    | —             | 128            | 48     | 6      | namecheap                                                        |
+| simple.vegas     | available | $64.98    | —             | 128            | 49     | 6      | namecheap                                                        |
 | name.vegas       | resell    | —         | —             | 82             | 76     | 4      | Porkbun LLC                                                      |
 | zero.vegas       | premium   | $250      | $124.94       | 112            | 53     | 4      | name.com                                                         |
 | genius.vegas     | available | $64.98    | —             | 98             | 45     | 6      | namecheap                                                        |
@@ -82,7 +82,7 @@ print(df.head())
 | micro.vegas      | available | $29.99    | —             | 66             | 45     | 5      | name.com                                                         |
 | get.vegas        | resell    | —         | —             | 88             | 69     | 3      | $$$ Private Label Internet Service Kiosk, Inc. (dba "PLISK.com") |
 | auto.vegas       | premium   | $260      | $129.94       | 68             | 45     | 4      | namecheap                                                        |
-| forge.vegas      | available | $64.98    | —             | 62             | 45     | 5      | namecheap                                                        |
+| forge.vegas      | available | $64.98    | —             | 62             | 44     | 5      | namecheap                                                        |
 | book.vegas       | resell    | —         | —             | 82             | 55     | 4      | NameSilo, LLC                                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
