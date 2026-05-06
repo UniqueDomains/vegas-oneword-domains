@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .vegas one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,916 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,916 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,916 domains · **Median ask:** $46.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/vegas`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Sony.vegas        | available | $64.98    | —             | 86             | 67     | 4      | namecheap        |
-| claim.vegas       | resell    | —         | —             | 78             | 31     | 5      | Dynadot Inc      |
-| agents.vegas      | premium   | $250      | —             | 56             | 50     | 6      | name.com         |
-| RedSox.vegas      | available | $64.98    | —             | 72             | 60     | 7      | namecheap        |
-| injury.vegas      | resell    | —         | —             | 68             | 16     | 6      | Dynadot Inc      |
-| WiFi.vegas        | premium   | $280      | $139.93       | 83             | 37     | 5      | namecheap        |
-| Books.vegas       | available | $64.98    | —             | 52             | 49     | 5      | namecheap        |
-| screens.vegas     | resell    | —         | —             | 54             | 13     | 7      | GoDaddy.com, LLC |
-| shops.vegas       | premium   | $250      | —             | 64             | 24     | 5      | name.com         |
-| matcha.vegas      | available | $29.99    | —             | 86             | 39     | 6      | name.com         |
-| mattresses.vegas  | resell    | —         | —             | 56             | 8      | 10     | eNom, LLC        |
-| pictures.vegas    | premium   | $250      | —             | 82             | 17     | 8      | name.com         |
-| RGB.vegas         | available | $64.98    | —             | 76             | 39     | 3      | namecheap        |
-| takeout.vegas     | premium   | $250      | —             | 75             | 16     | 8      | name.com         |
-| aliens.vegas      | available | $12.99    | $43.99        | 56             | 35     | 6      | namesilo         |
-| calls.vegas       | premium   | $250      | —             | 50             | 16     | 5      | name.com         |
-| Cats.vegas        | available | $64.98    | —             | 59             | 33     | 4      | namecheap        |
-| estates.vegas     | premium   | $250      | —             | 50             | 16     | 7      | name.com         |
-| inspiration.vegas | available | $29.99    | —             | 88             | 30     | 11     | name.com         |
-| accountants.vegas | premium   | $242      | $119.94       | 50             | 16     | 11     | namesilo         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Sony.vegas     | available | $64.98    | —             | 86             | 67     | 4      | namecheap   |
+| barup.vegas    | available | $29.99    | —             | 82             | 2      | 6      | name.com    |
+| geton.vegas    | available | $29.99    | —             | 82             | 10     | 6      | name.com    |
+| getup.vegas    | available | $29.99    | —             | 82             | 14     | 6      | name.com    |
+| matcha.vegas   | available | $29.99    | —             | 86             | 39     | 6      | name.com    |
+| Apples.vegas   | available | $64.98    | —             | 90             | 16     | 6      | namecheap   |
+| playin.vegas   | available | $29.99    | —             | 80             | 10     | 7      | name.com    |
+| toneup.vegas   | available | $29.99    | —             | 80             | 5      | 7      | name.com    |
+| makeit.vegas   | available | $29.99    | —             | 82             | 22     | 7      | name.com    |
+| pierogi.vegas  | available | $29.99    | —             | 82             | 7      | 7      | name.com    |
+| leaveon.vegas  | available | $29.99    | —             | 80             | 1      | 8      | name.com    |
+| messages.vegas | available | $12.99    | $43.99        | 80             | 16     | 8      | namesilo    |
+| Snickers.vegas | available | $64.98    | —             | 80             | 10     | 8      | namecheap   |
+| rumcake.vegas  | available | $29.99    | —             | 81             | 3      | 8      | name.com    |
+| claim.vegas    | resell    | —         | —             | 78             | 30     | 5      | Dynadot Inc |
+| agents.vegas   | premium   | $250      | —             | 56             | 50     | 6      | name.com    |
+| RedSox.vegas   | available | $64.98    | —             | 72             | 60     | 7      | namecheap   |
+| injury.vegas   | resell    | —         | —             | 68             | 16     | 6      | Dynadot Inc |
+| WiFi.vegas     | premium   | $280      | $139.93       | 83             | 37     | 5      | namecheap   |
+| Books.vegas    | available | $64.98    | —             | 52             | 49     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,916 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,916 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on one-word .vegas domains. The names range from generic and campaign-friendly options like finals.vegas, jewels.vegas, popup.vegas, and matcha.vegas to sharper, less intuitive strings such as acup.vegas or barup.vegas. For founders, the main question is whether a name is memorable, easy to say, and specific enough to feel intentional without becoming limiting. For investors, the key is buy-in discipline: a median ask of 46.02 keeps attention on low-cost entries, but resale and spread data are not established here, so quality judgment matters more than headline price alone. Be stricter with trademark exposure on names like Sony.vegas.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .vegas names only, from generic to coined
+- Median ask is 46.02 across 11,916 domains
+- Prioritize clarity, recall, and local fit to Las Vegas
+- Avoid obvious trademark terms such as Sony.vegas
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
