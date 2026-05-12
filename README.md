@@ -64,7 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Sony.vegas     | available | $64.98    | —             | 86             | 67     | 4      | namecheap   |
+| Sony.vegas     | available | $64.98    | —             | 86             | 68     | 4      | namecheap   |
 | barup.vegas    | available | $29.99    | —             | 82             | 2      | 6      | name.com    |
 | geton.vegas    | available | $29.99    | —             | 82             | 10     | 6      | name.com    |
 | getup.vegas    | available | $29.99    | —             | 82             | 14     | 6      | name.com    |
