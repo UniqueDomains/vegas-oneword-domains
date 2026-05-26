@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vegas one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,921 domains · **Median ask:** $46.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/vegas`  
 **Best for:** founders, investors, studios
 
@@ -67,17 +67,17 @@ print(df.head())
 | Sony.vegas     | available | $64.98    | —             | 86             | 68     | 4      | namecheap   |
 | barup.vegas    | available | $29.99    | —             | 82             | 2      | 6      | name.com    |
 | geton.vegas    | available | $29.99    | —             | 82             | 10     | 6      | name.com    |
-| getup.vegas    | available | $29.99    | —             | 82             | 14     | 6      | name.com    |
+| getup.vegas    | available | $29.99    | —             | 82             | 15     | 6      | name.com    |
 | matcha.vegas   | available | $29.99    | —             | 86             | 39     | 6      | name.com    |
 | Apples.vegas   | available | $64.98    | —             | 90             | 16     | 6      | namecheap   |
 | playin.vegas   | available | $29.99    | —             | 80             | 10     | 7      | name.com    |
 | toneup.vegas   | available | $29.99    | —             | 80             | 5      | 7      | name.com    |
-| makeit.vegas   | available | $29.99    | —             | 82             | 22     | 7      | name.com    |
+| makeit.vegas   | available | $29.99    | —             | 82             | 21     | 7      | name.com    |
 | pierogi.vegas  | available | $29.99    | —             | 82             | 7      | 7      | name.com    |
 | leaveon.vegas  | available | $29.99    | —             | 80             | 1      | 8      | name.com    |
 | messages.vegas | available | $12.99    | $43.99        | 80             | 16     | 8      | namesilo    |
 | Snickers.vegas | available | $64.98    | —             | 80             | 10     | 8      | namecheap   |
-| rumcake.vegas  | available | $29.99    | —             | 81             | 3      | 8      | name.com    |
+| rumcake.vegas  | available | $29.99    | —             | 81             | 2      | 8      | name.com    |
 | claim.vegas    | resell    | —         | —             | 78             | 30     | 5      | Dynadot Inc |
 | agents.vegas   | premium   | $250      | —             | 56             | 50     | 6      | name.com    |
 | RedSox.vegas   | available | $64.98    | —             | 72             | 60     | 7      | namecheap   |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
