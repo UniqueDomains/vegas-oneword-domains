@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .vegas one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,921 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,921 domains · **Median ask:** $46.02 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,921 domains · **Median ask:** $27.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vegas`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vegas`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VEGAS one-word domain
 
 ### Files
 
-- `vegas.csv` — public CSV extract (1,000 rows)
-- `vegas.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vegas.csv`, public CSV extract (1,000 rows)
+- `vegas.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Sony.vegas     | available | $64.98    | —             | 86             | 68     | 4      | namecheap   |
-| barup.vegas    | available | $29.99    | —             | 82             | 2      | 6      | name.com    |
-| geton.vegas    | available | $29.99    | —             | 82             | 10     | 6      | name.com    |
-| getup.vegas    | available | $29.99    | —             | 82             | 15     | 6      | name.com    |
-| matcha.vegas   | available | $29.99    | —             | 86             | 39     | 6      | name.com    |
-| Apples.vegas   | available | $64.98    | —             | 90             | 16     | 6      | namecheap   |
-| playin.vegas   | available | $29.99    | —             | 80             | 10     | 7      | name.com    |
-| toneup.vegas   | available | $29.99    | —             | 80             | 5      | 7      | name.com    |
-| makeit.vegas   | available | $29.99    | —             | 82             | 21     | 7      | name.com    |
-| pierogi.vegas  | available | $29.99    | —             | 82             | 7      | 7      | name.com    |
-| leaveon.vegas  | available | $29.99    | —             | 80             | 1      | 8      | name.com    |
-| messages.vegas | available | $12.99    | $43.99        | 80             | 16     | 8      | namesilo    |
-| Snickers.vegas | available | $64.98    | —             | 80             | 10     | 8      | namecheap   |
-| rumcake.vegas  | available | $29.99    | —             | 81             | 2      | 8      | name.com    |
-| claim.vegas    | resell    | —         | —             | 78             | 30     | 5      | Dynadot Inc |
-| agents.vegas   | premium   | $250      | —             | 56             | 50     | 6      | name.com    |
-| RedSox.vegas   | available | $64.98    | —             | 72             | 60     | 7      | namecheap   |
-| injury.vegas   | resell    | —         | —             | 68             | 16     | 6      | Dynadot Inc |
-| WiFi.vegas     | premium   | $280      | $139.93       | 83             | 37     | 5      | namecheap   |
-| Books.vegas    | available | $64.98    | —             | 52             | 49     | 5      | namecheap   |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| age.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| veg.vegas    | resell    | $29.99    | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| map.vegas    | premium   | $260      | $129.94       | high           | medium | 3      | namecheap        |
+| ane.vegas    | available | $12.99    | $43.99        | low            | low    | 3      | namesilo         |
+| order.vegas  | resell    | $29.99    | $75.99        | high           | medium | 5      | Porkbun LLC      |
+| top.vegas    | premium   | $242      | $119.94       | high           | medium | 3      | namesilo         |
+| arm.vegas    | available | $12.99    | $43.99        | high           | medium | 3      | namesilo         |
+| launch.vegas | resell    | $29.99    | —             | high           | low    | 6      | Porkbun LLC      |
+| care.vegas   | premium   | $260      | $129.94       | high           | low    | 4      | namecheap        |
+| bow.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| tap.vegas    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| flip.vegas   | premium   | $250      | —             | high           | low    | 4      | name.com         |
+| cow.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| butt.vegas   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| high.vegas   | premium   | $250      | $124.94       | medium         | low    | 4      | name.com         |
+| cue.vegas    | available | $29.99    | —             | medium         | low    | 3      | name.com         |
+| juice.vegas  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| tweet.vegas  | premium   | $242      | $119.94       | high           | low    | 5      | namesilo         |
+| far.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| money.vegas  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .vegas domains. The names range from generic and campaign-friendly options like finals.vegas, jewels.vegas, popup.vegas, and matcha.vegas to sharper, less intuitive strings such as acup.vegas or barup.vegas. For founders, the main question is whether a name is memorable, easy to say, and specific enough to feel intentional without becoming limiting. For investors, the key is buy-in discipline: a median ask of 46.02 keeps attention on low-cost entries, but resale and spread data are not established here, so quality judgment matters more than headline price alone. Be stricter with trademark exposure on names like Sony.vegas.
+This list covers one-word domain names on the .vegas extension, spanning everyday English words like half, okay, feel, great, and content. With 11,921 domains available and a median asking price of $27.74, this selection offers a low-cost entry point for building a short, memorable web address. Each name is currently ownable, making .vegas a practical option for founders who want a brandable domain without a five- or six-figure price tag, and for investors scanning for volume across a single extension.
 
-- One-word .vegas names only, from generic to coined
-- Median ask is 46.02 across 11,916 domains
-- Prioritize clarity, recall, and local fit to Las Vegas
-- Avoid obvious trademark terms such as Sony.vegas
+- 11,921 one-word .vegas domains available now
+- Median asking price: $27.74 per domain
+- Everyday words like okay, feel, great, content
+- Updated daily as availability changes
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
