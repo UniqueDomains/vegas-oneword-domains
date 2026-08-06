@@ -1,10 +1,10 @@
-# Available .VEGAS One-Word Domains (11,921)
+# Available .VEGAS One-Word Domains (11,926)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C921%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C926%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vegas one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,921 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,926 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,921 domains · **Median ask:** $27.74 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,926 domains · **Median ask:** $26.08 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/vegas`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| age.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| aft.vegas    | available | $12.99    | $43.99        | low            | low    | 3      | namesilo         |
 | veg.vegas    | resell    | $29.99    | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | map.vegas    | premium   | $260      | $129.94       | high           | medium | 3      | namecheap        |
-| ane.vegas    | available | $12.99    | $43.99        | low            | low    | 3      | namesilo         |
+| age.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | order.vegas  | resell    | $29.99    | $75.99        | high           | medium | 5      | Porkbun LLC      |
 | top.vegas    | premium   | $242      | $119.94       | high           | medium | 3      | namesilo         |
-| arm.vegas    | available | $12.99    | $43.99        | high           | medium | 3      | namesilo         |
+| ain.vegas    | available | $12.99    | $43.99        | low            | low    | 3      | namesilo         |
 | launch.vegas | resell    | $29.99    | —             | high           | low    | 6      | Porkbun LLC      |
 | care.vegas   | premium   | $260      | $129.94       | high           | low    | 4      | namecheap        |
-| bow.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| ane.vegas    | available | $12.99    | $43.99        | low            | low    | 3      | namesilo         |
 | tap.vegas    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | flip.vegas   | premium   | $250      | —             | high           | low    | 4      | name.com         |
-| cow.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| arm.vegas    | available | $12.99    | $43.99        | high           | medium | 3      | namesilo         |
 | butt.vegas   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | high.vegas   | premium   | $250      | $124.94       | medium         | low    | 4      | name.com         |
-| cue.vegas    | available | $29.99    | —             | medium         | low    | 3      | name.com         |
+| bow.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | juice.vegas  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | tweet.vegas  | premium   | $242      | $119.94       | high           | low    | 5      | namesilo         |
-| far.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| cow.vegas    | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | money.vegas  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,921 live domains                        |
+| 1,000-row public sample | 11,926 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VEGAS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
