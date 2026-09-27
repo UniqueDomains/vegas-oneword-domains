@@ -39,7 +39,7 @@ e8a92b02-54bb-47d5-9520-a9ab09d5d751,creaky.vegas,available,12.99,43.99,medium,l
 69c7bf82-39aa-4877-ba35-45c8006f979f,colombo.vegas,available,12.99,43.99,high,low,7,namesilo,,,
 b722f8d3-13ac-4ce5-acac-1b246f66a79b,president.vegas,available,12.99,43.99,high,low,9,namesilo,,,
 62fa471d-f363-48d9-88b9-9b49690833cf,uncomplicated.vegas,available,12.99,43.99,high,low,13,namesilo,,,
-586b1a71-5d31-4fcf-910c-37b87a72b09c,fraud.vegas,available,12.99,43.99,high,low,5,namesilo,,,
+586b1a71-5d31-4fcf-910c-37b87a72b09c,fraud.vegas,available,12.99,43.99,high,low,5,namesilo,,,27/09/2026 07:55
 a5127995-1c34-401b-b578-7270c314aa4d,emergency.vegas,premium,242,119.94,high,low,9,namesilo,,,
 72f6a5e4-7721-4f93-b3e6-10ac48034784,agassiz.vegas,available,12.99,43.99,medium,low,7,namesilo,,,17/09/2026 16:23
 c9330dd6-c76d-4cad-b89d-0d37b4beea78,niebuhr.vegas,available,12.99,43.99,medium,low,7,namesilo,,,22/09/2026 09:08
@@ -56,7 +56,7 @@ c8241092-940f-461f-8934-25f00132ec2e,energy.vegas,premium,242,119.94,high,medium
 52717030-256b-4afa-9762-26dfe21ac7c4,cherokee.vegas,available,12.99,43.99,high,low,8,namesilo,,,24/09/2026 14:17
 5e4d04e8-5d95-4584-8f5c-a3cd74008776,qualifier.vegas,available,29.99,,high,low,9,name.com,,,
 7677610d-8b03-415c-b8c2-7495c9415bc4,unify.vegas,available,12.99,43.99,high,medium,5,namesilo,,,22/09/2026 03:16
-14bcac25-b56c-43fe-b4b2-8aed8b8450ca,sony.vegas,available,12.99,43.99,high,medium,4,namesilo,,,
+14bcac25-b56c-43fe-b4b2-8aed8b8450ca,sony.vegas,available,12.99,43.99,high,medium,4,namesilo,,,27/09/2026 05:45
 7598c273-73bf-422c-8081-924c72d160e3,hyoid.vegas,available,12.99,43.99,medium,low,5,namesilo,,,21/08/2026 16:35
 b2f0996e-111e-48dc-8a89-924c764c5b22,eichmann.vegas,available,12.99,43.99,medium,low,8,namesilo,,,17/09/2026 09:30
 7d89b3f2-4baf-4b0c-ae17-6c30741eb3e2,barb.vegas,available,12.99,43.99,high,low,4,namesilo,,,22/09/2026 04:14
@@ -89,6 +89,7 @@ d24a3a46-2dda-4af8-9a35-b0d29ce90e63,venushair.vegas,available,12.99,43.99,mediu
 e8263950-7394-4f31-a886-93b752f9a616,stray.vegas,available,12.99,43.99,high,low,5,namesilo,,,25/09/2026 11:32
 2b75cc35-397c-403d-be7e-54b478010612,aides.vegas,available,19.98,64.98,high,low,5,namecheap,,,17/09/2026 20:51
 c4102b20-b598-4211-ab90-1897239bf719,absurdity.vegas,available,12.99,43.99,high,low,9,namesilo,,,16/09/2026 18:39
+6d836a08-fd84-40ba-a80f-82b0b3ceac85,covers.vegas,available,12.99,43.99,high,low,6,namesilo,,,27/09/2026 09:49
 eec97c1b-8a49-4eed-9742-58326412ce91,superb.vegas,available,12.99,43.99,high,low,6,namesilo,,,23/09/2026 09:28
 87ef2a6e-dfe4-45fb-94d1-623dc6a6321b,toad.vegas,available,19.98,64.98,high,low,4,namecheap,,,05/08/2026 21:06
 dab83c16-33ac-4c45-af8f-437af7a6460c,angling.vegas,available,12.99,43.99,high,low,7,namesilo,,,19/09/2026 06:50
@@ -97,7 +98,7 @@ fc5f6125-74e7-48f5-ae46-54f20d99f5ea,alnico.vegas,available,12.99,43.99,medium,l
 7512964d-de65-4813-8bf5-8f6f2c1e6151,bacteria.vegas,available,12.99,43.99,high,low,8,namesilo,,,21/09/2026 16:28
 f6044769-443d-4e7a-9400-addbbfd38db5,belike.vegas,available,12.99,43.99,medium,low,7,namesilo,,,04/09/2026 04:45
 2d79adb4-cc1b-44be-8a66-ed5c3d51cc63,cheetah.vegas,available,12.99,43.99,high,low,7,namesilo,,,17/09/2026 01:33
-190d8de5-b77b-4bdf-802f-362c9184e00c,recession.vegas,available,12.99,43.99,high,low,9,namesilo,,,
+190d8de5-b77b-4bdf-802f-362c9184e00c,recession.vegas,available,12.99,43.99,high,low,9,namesilo,,,27/09/2026 10:55
 1591ba1a-edad-4325-88e8-89dd3806538c,refuge.vegas,available,19.98,64.98,high,low,6,namecheap,,,20/09/2026 18:32
 914804d2-f265-417f-bfa3-ef90e0d237ed,incredibly.vegas,available,12.99,43.99,high,low,10,namesilo,,,14/09/2026 17:21
 9079a51f-5bf8-4309-ace3-0f3750d94c0d,supposedly.vegas,available,12.99,43.99,medium,low,10,namesilo,,,
@@ -161,11 +162,12 @@ b2563422-0e82-4710-9d78-5e3f53e915a4,allure.vegas,available,19.98,64.98,high,low
 104121cd-e15a-4f6a-8933-645fe37c5e59,moreover.vegas,available,19.98,64.98,high,low,8,namecheap,,,14/09/2026 20:44
 2d8fcc7c-9257-41ff-88d4-2d5c8336ba5b,dislocated.vegas,available,12.99,43.99,medium,low,10,namesilo,,,14/08/2026 11:31
 a9006577-e987-44f0-9c6e-0a7c90891cc9,goldbrick.vegas,available,12.99,43.99,medium,low,9,namesilo,,,20/08/2026 16:29
-a92019d0-25f1-4c17-9117-5f619b442e23,private.vegas,premium,242,119.94,high,low,7,namesilo,,,
+a92019d0-25f1-4c17-9117-5f619b442e23,private.vegas,premium,242,119.94,high,medium,7,namesilo,,,27/09/2026 06:15
 8f6f6db2-1931-4f4d-aa8c-ad9375213829,clothing.vegas,available,12.99,43.99,high,low,8,namesilo,,,23/09/2026 08:13
 9eac9494-5269-4232-8542-f43cd6c2302b,monegasque.vegas,available,12.99,43.99,high,low,10,namesilo,,,25/08/2026 04:03
 2889b8d9-ef9f-4dbf-9d24-93689db5fbb1,hugging.vegas,available,12.99,43.99,high,low,7,namesilo,,,24/09/2026 12:55
 0e9631ba-8a42-4267-b2d5-7fc2906445c7,dreaded.vegas,available,12.99,43.99,medium,low,7,namesilo,,,14/08/2026 08:53
+e1ce0bbd-1398-4071-832f-4d93d3e6562f,ransom.vegas,available,12.99,43.99,medium,low,6,namesilo,,,27/09/2026 05:07
 6ec4214b-828b-4d66-82ad-0ea7d510d762,retard.vegas,available,12.99,43.99,high,low,6,namesilo,,,21/08/2026 20:33
 da454e5e-2358-466c-b834-d1c98dc9adeb,pens.vegas,available,12.99,43.99,medium,low,4,namesilo,,,20/09/2026 04:15
 81c52645-50e1-403e-87d3-d92348c0b9d3,bikers.vegas,available,12.99,43.99,high,low,6,namesilo,,,23/09/2026 15:36
@@ -234,6 +236,7 @@ ce33d287-5a7a-4510-a670-68f14918398d,migrant.vegas,available,12.99,43.99,high,lo
 363d0626-4f7f-4457-a2d2-e01e71622ef1,metacarpal.vegas,available,19.98,64.98,medium,low,10,namecheap,,,24/08/2026 21:30
 3f95e4ed-b991-4490-a03d-6b487bfd4f94,artois.vegas,available,12.99,43.99,medium,low,6,namesilo,,,20/09/2026 12:02
 b7471a84-6e48-4362-bd8d-d0ae004dcfdb,umbilicus.vegas,available,12.99,43.99,high,low,9,namesilo,,,23/09/2026 06:37
+2649256c-e84c-486f-955c-9e8dac91c91f,borrowed.vegas,available,12.99,43.99,medium,low,8,namesilo,,,27/09/2026 09:49
 5a9d813f-fbd4-4e16-8ea1-6bcc9ea2153a,hallowmas.vegas,available,12.99,43.99,medium,low,9,namesilo,,,18/09/2026 09:30
 ff01e8c9-a6c4-4719-b909-665e53e865d2,french.vegas,available,19.98,64.98,high,low,6,namecheap,,,24/09/2026 21:41
 5b0ddcb7-47ff-431c-8ab5-987c621ee69a,dinar.vegas,available,19.98,64.98,high,low,5,namecheap,,,18/09/2026 07:02
@@ -261,6 +264,7 @@ a2717401-b871-4425-9b5f-153724bdb2d2,trivalent.vegas,available,19.98,64.98,mediu
 bf26d165-f249-46ea-a59c-77c0fcdd29ee,anguis.vegas,available,12.99,43.99,medium,low,6,namesilo,,,19/09/2026 07:34
 1caf68df-48e3-4c3a-91de-f7427aa3fae6,unvoiced.vegas,available,12.99,43.99,medium,low,8,namesilo,,,11/09/2026 03:39
 30e81fa1-3bdc-475c-8868-0ca99df329b7,leave.vegas,available,12.99,43.99,high,low,5,namesilo,,,
+e016f228-403d-44ac-b7e5-1ad34eda1194,fears.vegas,available,12.99,43.99,medium,low,5,namesilo,,,27/09/2026 08:58
 5aa94f77-4dff-4fe2-b554-692708044076,taiwan.vegas,available,,,high,high,6,,,,
 eccd7821-a0d6-4e07-aee0-f6dcee2f52b4,glooming.vegas,available,12.99,43.99,medium,low,8,namesilo,,,20/08/2026 14:41
 fe4a6f49-ead8-4460-a3db-9d1269114032,aptly.vegas,available,12.99,43.99,high,low,5,namesilo,,,13/09/2026 16:19
@@ -281,7 +285,7 @@ a6021881-1acd-4906-bc41-186405861b97,couch.vegas,available,19.98,64.98,high,low,
 723d7785-7522-4038-b95c-209c315eace7,gossamer.vegas,available,12.99,43.99,medium,low,8,namesilo,,,12/08/2026 14:32
 bfea23b7-196a-4909-8c4d-383755a8f471,erupt.vegas,available,12.99,43.99,high,low,5,namesilo,,,
 fe46260a-3a0b-4d56-9289-034226dcec5c,aesthesia.vegas,available,12.99,43.99,medium,low,9,namesilo,,,17/09/2026 13:26
-3b439210-9efb-499f-af00-0815f3ea2815,preserved.vegas,available,12.99,43.99,high,low,9,namesilo,,,
+3b439210-9efb-499f-af00-0815f3ea2815,preserved.vegas,available,12.99,43.99,high,low,9,namesilo,,,27/09/2026 05:50
 d3f22ee5-9e5c-489d-b69f-d64d22526886,baseboard.vegas,available,19.98,64.98,medium,low,9,namecheap,,,22/09/2026 10:08
 050b7cce-85f1-4ea2-bf77-8b78f5ae5150,querier.vegas,available,12.99,43.99,medium,low,7,namesilo,,,20/09/2026 14:26
 ba6c2238-149e-417a-a1b4-77a019c85e65,solid.vegas,available,29.99,,high,low,5,name.com,,,
@@ -354,6 +358,7 @@ f628cf5c-6705-4d18-be93-084b754c6243,merrill.vegas,available,12.99,43.99,high,me
 58305722-7e4b-4c8c-9acb-f866b79ad861,bezique.vegas,available,19.98,64.98,medium,low,7,namecheap,,,23/09/2026 12:24
 77dc19ba-7e72-43f3-8f41-f99debfea9ce,inviting.vegas,available,12.99,43.99,high,low,8,namesilo,,,25/09/2026 11:14
 b632b7a4-9b88-41f0-966f-15d38b100d13,precast.vegas,available,12.99,43.99,high,low,7,namesilo,,,16/09/2026 01:12
+19977998-f39a-4169-b480-b3f729bb2e78,keating.vegas,available,19.98,64.98,high,low,7,namecheap,,,27/09/2026 08:01
 5169f23d-8a71-4fe8-acdb-e6235daf2a23,brockhouse.vegas,available,12.99,43.99,medium,low,10,namesilo,,,23/09/2026 10:18
 e04c074c-4511-4245-9469-8977c7602f6e,fated.vegas,available,12.99,43.99,high,low,5,namesilo,,,17/08/2026 23:32
 7cc43b3b-3f02-450f-8534-84f845f42767,minutes.vegas,available,29.99,,high,low,7,name.com,,,
@@ -361,6 +366,7 @@ e04c074c-4511-4245-9469-8977c7602f6e,fated.vegas,available,12.99,43.99,high,low,
 954fed51-3748-45ca-91b8-218c18e31a42,dinky.vegas,available,12.99,43.99,high,low,5,namesilo,,,14/08/2026 08:14
 84d3bdc2-4c6b-44bd-b616-c70393736491,androgen.vegas,available,19.98,64.98,medium,low,8,namecheap,,,19/09/2026 04:53
 242d1e1d-bf73-42c9-9538-f3d5d3627495,travels.vegas,available,12.99,43.99,high,low,7,namesilo,,,17/09/2026 06:44
+09000283-a704-4e32-8d72-d55b0f768b67,stole.vegas,available,12.99,43.99,high,low,5,namesilo,,,27/09/2026 05:29
 f087e594-ab16-4e45-b456-3fc22b954e47,exalted.vegas,available,12.99,43.99,high,low,7,namesilo,,,17/08/2026 15:38
 2d0386a5-1a7e-47b0-a03b-1fc92db9cc24,transparency.vegas,available,12.99,43.99,high,low,12,namesilo,,,
 b6d02c76-f6cf-40b5-a5ad-825ef2ebf451,emollient.vegas,available,12.99,43.99,medium,low,9,namesilo,,,14/08/2026 01:39
@@ -411,6 +417,7 @@ a2e5d72e-e556-4acb-9559-982659a4e4c7,catholicism.vegas,available,12.99,43.99,hig
 b0f66c48-ec6f-453c-888b-e21d08a825f4,sarcasm.vegas,available,12.99,43.99,high,low,7,namesilo,,,24/09/2026 13:16
 59fa4a77-3086-4eaf-ac89-1d4b82893031,comics.vegas,premium,250,,high,low,6,name.com,,,
 27a17b2c-b77c-43f2-aac0-343d2ba67098,cameraman.vegas,available,12.99,43.99,high,low,9,namesilo,,,
+d50fdbb5-2f08-43db-94a8-00b6d002d6da,harcourt.vegas,available,12.99,43.99,high,low,8,namesilo,,,27/09/2026 08:10
 b009c711-3215-45c8-a160-4843147c63c9,foaming.vegas,available,12.99,43.99,high,low,7,namesilo,,,11/08/2026 07:18
 e3104928-c688-40f5-8515-e636d309e9a6,favorably.vegas,available,19.98,64.98,high,low,9,namecheap,,,14/09/2026 18:00
 3acacbef-0887-41ad-803c-728d71c01e76,laughs.vegas,available,12.99,43.99,medium,low,6,namesilo,,,27/09/2026 03:15
@@ -506,7 +513,7 @@ cfa54d81-40c3-47e0-902f-de773e30308a,unsorted.vegas,available,12.99,43.99,medium
 304b2b0f-6c4d-427e-9e3c-b682f45d8512,airhead.vegas,available,12.99,43.99,high,low,7,namesilo,,,17/09/2026 23:11
 a0150e95-f772-42cb-aeac-9c14ab828b0b,aesthesis.vegas,available,19.98,64.98,medium,low,9,namecheap,,,17/09/2026 13:32
 9434e3e3-a200-4a2a-b954-a4d5c25e2cb1,postmortem.vegas,available,12.99,43.99,high,low,10,namesilo,,,09/09/2026 00:31
-9127f636-9d3d-4d5c-9eb4-455fdace13ac,fill.vegas,available,12.99,43.99,high,low,4,namesilo,,,
+9127f636-9d3d-4d5c-9eb4-455fdace13ac,fill.vegas,available,12.99,43.99,high,low,4,namesilo,,,27/09/2026 11:50
 4c235b40-cc77-49b1-a903-832c0cec7ef9,toughened.vegas,available,12.99,43.99,medium,low,9,namesilo,,,11/09/2026 10:54
 1f9a7188-0a63-46d8-9e4a-ed231f0b7489,literature.vegas,available,12.99,43.99,high,low,10,namesilo,,,24/08/2026 02:03
 60d4a30c-1ee1-46a9-8d33-69d466e8512f,fiction.vegas,available,12.99,43.99,high,low,7,namesilo,,,
@@ -542,7 +549,7 @@ c771efdc-e702-4654-ba0e-153981372cfb,busted.vegas,available,19.98,64.98,medium,l
 606efb8c-bc5f-4108-b12a-c4eb15fe4a85,addon.vegas,available,12.99,43.99,high,low,6,namesilo,,,17/09/2026 06:37
 47ca8bef-c3a4-4645-96fd-a1c085f50ee7,adjuster.vegas,available,12.99,43.99,high,low,8,namesilo,,,17/09/2026 08:32
 c9f098ad-af28-4dac-9ad5-bae710b1377c,measurable.vegas,available,19.98,64.98,high,low,10,namecheap,,,24/08/2026 18:27
-49af761a-8336-4b59-a84f-27281124777b,upon.vegas,available,12.99,43.99,medium,low,4,namesilo,,,
+49af761a-8336-4b59-a84f-27281124777b,upon.vegas,available,15.96,43.39,high,low,4,porkbun,,,27/09/2026 11:32
 215f5913-ca1d-4065-a579-710cfe1efa6c,ashcan.vegas,available,12.99,43.99,medium,low,6,namesilo,,,20/09/2026 13:35
 86cc37cc-53d9-4546-ac4b-25c0d0c24a30,accompanying.vegas,available,19.98,64.98,high,low,12,namecheap,,,25/09/2026 03:29
 6921006d-6724-493a-83c4-e798dff98259,gur.vegas,available,12.99,43.99,medium,low,3,namesilo,,,13/09/2026 06:52
@@ -630,6 +637,7 @@ dab60e65-c78e-448f-8f36-e7ef991e4a1f,weekend.vegas,premium,242,119.94,high,low,7
 352e86f6-9d4d-47dd-98f7-2f8e6b7309a6,talkative.vegas,available,19.98,64.98,high,low,9,namecheap,,,09/08/2026 21:05
 f853785b-da4f-4733-a9b2-827dff6412bd,calla.vegas,available,12.99,43.99,high,low,5,namesilo,,,20/09/2026 12:12
 998a79e0-515b-48d4-ad69-7b0b2ab486be,lackey.vegas,available,12.99,43.99,medium,low,6,namesilo,,,20/09/2026 15:38
+04a70014-92de-499d-893d-1469c80109dc,val.vegas,available,12.99,43.99,high,low,3,namesilo,,,27/09/2026 06:29
 87a5a8c2-24fa-4faf-823b-157b5bae3977,pentatonic.vegas,available,12.99,43.99,medium,low,10,namesilo,,,08/09/2026 15:05
 b5a18c3a-93fe-4a88-9fd5-9c197272f524,adjusted.vegas,available,12.99,43.99,high,low,8,namesilo,,,21/09/2026 18:42
 e7bb0077-49e9-4aac-b9da-5e93270e5bb3,verbatim.vegas,available,12.99,43.99,high,low,8,namesilo,,,13/09/2026 02:21
@@ -699,6 +707,7 @@ f7c17efc-1a4f-44d0-b7cc-cf2935a5f899,archivist.vegas,available,12.99,43.99,high,
 880b5053-61f1-4311-b285-b0c380eac610,telephone.vegas,available,12.99,43.99,high,low,9,namesilo,,,26/09/2026 00:02
 c4114d3b-3962-4b9d-9dd0-8b5267b5b95d,canonic.vegas,available,12.99,43.99,medium,low,7,namesilo,,,11/08/2026 17:22
 4e12f2fe-742f-47d4-978a-a752f96fb533,coalescing.vegas,available,12.99,43.99,medium,low,10,namesilo,,,12/08/2026 13:53
+6628a83f-072e-4f7c-ba89-f135dfbf6fb7,clemens.vegas,available,12.99,43.99,high,low,7,namesilo,,,27/09/2026 12:32
 8a32f03b-fb28-4532-93cd-04f99219cbcc,railroad.vegas,available,19.98,64.98,high,low,8,namecheap,,,24/09/2026 23:46
 fae75809-5273-4cf3-85fd-a8fa4902d011,anna.vegas,available,12.99,43.99,high,medium,4,namesilo,,,19/09/2026 09:54
 bd6495b6-35e8-4d00-8bed-67b4e6185857,cheek.vegas,available,12.99,43.99,high,low,5,namesilo,,,24/09/2026 11:22
@@ -709,6 +718,7 @@ bd6495b6-35e8-4d00-8bed-67b4e6185857,cheek.vegas,available,12.99,43.99,high,low,
 6816ecc2-d9c3-4413-947d-93494618a4d1,eagerness.vegas,available,12.99,43.99,high,low,9,namesilo,,,21/09/2026 09:28
 9461f35d-9ce6-4819-b42d-6ceb4ab1f400,aptness.vegas,available,12.99,43.99,medium,low,7,namesilo,,,19/09/2026 22:03
 c0f8c687-3470-418a-8a31-f1e8552174e1,sulfuric.vegas,available,12.99,43.99,medium,low,8,namesilo,,,11/09/2026 01:29
+66407f9c-a40c-4716-bbfd-322154211676,groom.vegas,available,16.51,43.61,high,low,5,dynadot,,,27/09/2026 12:02
 d013d36d-5014-4612-8504-698d8891de6b,autogiro.vegas,available,12.99,43.99,medium,low,8,namesilo,,,21/09/2026 06:22
 7cdc8639-8b09-4106-905c-97f09846dbf6,narial.vegas,available,12.99,43.99,medium,low,6,namesilo,,,03/09/2026 13:14
 cbaf0722-5b3c-45fd-9a42-da71b4eeef41,withdrawn.vegas,available,12.99,43.99,medium,low,9,namesilo,,,22/08/2026 03:25
@@ -748,6 +758,7 @@ cac4b196-4b24-43c4-8f98-6f03a1cc4b2f,pallor.vegas,available,12.99,43.99,medium,l
 e5f3df32-5177-4c91-8890-b65f334b2a62,alisma.vegas,available,29.99,75.99,medium,low,6,name.com,,,18/09/2026 08:02
 613e870c-cd9c-40f6-aab1-39b900b74bd7,abroach.vegas,available,12.99,43.99,medium,low,7,namesilo,,,
 d992b6c0-91e8-42cc-a8ce-36920820715c,quadrate.vegas,available,12.99,43.99,high,low,8,namesilo,,,09/09/2026 07:17
+cd9bc7f6-9903-4475-b550-96acae49eb61,mps.vegas,available,12.99,43.99,high,low,3,namesilo,,,27/09/2026 04:47
 d621d014-781a-4a00-904f-04b77fafbad1,openly.vegas,available,19.98,64.98,high,low,6,namecheap,,,15/09/2026 17:59
 f14ce536-30d8-47ef-9aca-d922d751ab1e,antiphony.vegas,available,12.99,43.99,medium,low,9,namesilo,,,19/09/2026 14:57
 9c122241-c532-4735-9afb-0f36de1d9da9,admittance.vegas,available,12.99,43.99,high,low,10,namesilo,,,16/09/2026 22:13
@@ -937,6 +948,7 @@ f4573a9a-3d05-4b58-b98a-6e821039cc23,want.vegas,available,29.99,,high,low,4,name
 1548f15a-d839-46a7-ab4e-f9518a037a96,wall.vegas,available,12.99,43.99,high,low,4,namesilo,,,23/09/2026 16:20
 15141dd0-1fca-4158-91e3-3935abc01644,unaltered.vegas,available,12.99,43.99,high,low,9,namesilo,,,12/09/2026 00:30
 e84f11b7-3013-4bf3-b95a-912593788832,staple.vegas,available,12.99,43.99,high,low,6,namesilo,,,10/09/2026 18:45
+4caab30d-5b24-4920-b692-8097b19782cd,lyman.vegas,available,12.99,43.99,medium,low,5,namesilo,,,27/09/2026 08:10
 2407fc1a-55c8-4d7b-9095-9da7135eaa67,bluebottle.vegas,available,12.99,43.99,medium,low,10,namesilo,,,21/09/2026 14:09
 f31f6cbc-6aed-41df-85bc-9fdf6884ee57,wrinkly.vegas,available,12.99,43.99,medium,low,7,namesilo,,,13/09/2026 13:47
 cb3637b6-c258-48c4-b849-4b54a433f507,bigarade.vegas,available,19.98,64.98,medium,low,8,namecheap,,,23/09/2026 15:03
@@ -958,6 +970,7 @@ a2a10831-85e8-44cf-b7ed-d7c4a5cb5719,exorbitant.vegas,available,12.99,43.99,medi
 a78bcc40-1dfe-43fe-b7d9-105163ba1580,axiology.vegas,available,12.99,43.99,high,low,8,namesilo,,,21/09/2026 10:24
 334d82e3-2ee8-47ac-9d1e-f6377acda4ac,anatropous.vegas,available,12.99,43.99,medium,low,10,namesilo,,,
 0ac7953e-da73-4468-a1f2-01a834d33f13,instrument.vegas,available,12.99,43.99,high,low,10,namesilo,,,24/09/2026 13:05
+ed6116a4-efd7-40fb-980c-635f3a841068,discussed.vegas,available,12.99,43.99,medium,low,9,namesilo,,,27/09/2026 10:04
 6aa66879-7656-41cf-91ad-d6a30d3af308,circus.vegas,premium,242,119.94,high,low,6,namesilo,,,
 6db7d8d7-3ba4-4df7-8e67-b03c98e37a04,annapurna.vegas,available,12.99,43.99,high,low,9,namesilo,,,19/09/2026 02:23
 608e2268-f101-4813-baa8-19e2ef2f8af3,sisters.vegas,available,12.99,43.99,high,low,7,namesilo,,,
@@ -986,16 +999,3 @@ c2191804-c370-4682-8a73-8dd642f74fcf,calcium.vegas,available,12.99,43.99,high,lo
 420f357f-56fe-4c30-beaf-7be270c5b517,mocking.vegas,available,12.99,43.99,medium,low,7,namesilo,,,14/08/2026 02:52
 d0fa253d-507e-4fd4-9c20-6dc36f8b9502,deist.vegas,available,12.99,43.99,medium,low,5,namesilo,,,14/08/2026 00:15
 73adf2a9-711e-463b-bb3e-baee4fd98bb3,wriggly.vegas,available,12.99,43.99,medium,low,7,namesilo,,,13/09/2026 13:43
-d979edf3-c812-4159-959b-7c2c719ac886,meter.vegas,available,12.99,43.99,high,low,5,namesilo,,,25/09/2026 15:55
-35ead6d7-859c-4e7e-94b6-fcde78be134e,cxxxv.vegas,available,12.99,43.99,medium,low,5,namesilo,,,
-9aa52ac2-2e5c-44a7-81e9-46cae844a400,candour.vegas,available,19.98,64.98,high,low,7,namecheap,,,24/09/2026 12:03
-580256a7-5a7e-4959-adeb-864b8d1768c1,seals.vegas,available,12.99,43.99,high,low,5,namesilo,,,
-caf8c8f0-590f-47e8-9c2a-522a42e0f1eb,suffer.vegas,available,12.99,43.99,high,low,6,namesilo,,,
-6bae8e43-e599-4564-ae0a-d9ad3321ffd8,emotion.vegas,available,12.99,43.99,high,low,7,namesilo,,,
-d8ff4216-53bf-42c4-b907-1f8784f9f8a9,autobahn.vegas,available,12.99,43.99,high,low,8,namesilo,,,21/09/2026 05:50
-8e074837-55b0-4242-9307-4408c1d6a85a,antebellum.vegas,available,12.99,43.99,medium,low,10,namesilo,,,
-8234b871-b0cd-43cd-b7c4-6a97518566c5,braggart.vegas,available,12.99,43.99,medium,low,8,namesilo,,,11/08/2026 01:16
-fc2c9c42-50ad-4012-a207-6f956a8dabd6,challenging.vegas,available,12.99,43.99,high,low,11,namesilo,,,
-7d8bde05-4561-4bd6-bc9e-b4cc2f323abb,electrical.vegas,available,12.99,43.99,high,low,10,namesilo,,,16/08/2026 02:39
-3cc6116a-ef31-4435-a789-3f0f4d631317,alcahest.vegas,available,12.99,43.99,medium,low,8,namesilo,,,18/09/2026 03:43
-4ac1448b-1990-4aef-9224-bba448e974ca,briefing.vegas,available,12.99,43.99,high,low,8,namesilo,,,
