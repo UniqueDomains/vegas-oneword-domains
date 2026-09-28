@@ -1,10 +1,10 @@
-# Available .VEGAS One-Word Domains (23,259)
+# Available .VEGAS One-Word Domains (23,813)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C259%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C813%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .vegas one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,259 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,813 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,259 domains · **Median ask:** $19.94 · **High-demand under $2,500:** 36
+**Public extract:** 1,000 rows · **Live catalog:** 23,813 domains · **Median ask:** $19.88 · **High-demand under $2,500:** 37
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/vegas`
@@ -69,21 +69,21 @@ print(df.head())
 | map.vegas     | premium   | $260      | $129.94       | high           | medium | 3      | namecheap        |
 | amy.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | jane.vegas    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| good.vegas    | premium   | $260      | $129.94       | high           | medium | 4      | namecheap        |
+| good.vegas    | premium   | $242      | $119.94       | high           | medium | 4      | namesilo         |
 | apt.vegas     | available | $19.98    | $64.98        | high           | low    | 3      | namecheap        |
 | laid.vegas    | premium   | $242      | $119.94       | high           | low    | 4      | namesilo         |
 | bra.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | more.vegas    | premium   | $242      | $119.94       | high           | medium | 4      | namesilo         |
 | cbc.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
-| circus.vegas  | premium   | $242      | $119.94       | high           | low    | 6      | namesilo         |
-| cdc.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | comics.vegas  | premium   | $250      | —             | high           | low    | 6      | name.com         |
-| end.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
+| cdc.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | energy.vegas  | premium   | $242      | $119.94       | high           | medium | 6      | namesilo         |
-| est.vegas     | available | $29.99    | $79.99        | high           | low    | 3      | godaddy          |
+| end.vegas     | available | $12.99    | $43.99        | high           | low    | 3      | namesilo         |
 | monster.vegas | premium   | $242      | $119.94       | high           | high   | 7      | namesilo         |
-| gur.vegas     | available | $12.99    | $43.99        | medium         | low    | 3      | namesilo         |
+| est.vegas     | available | $29.99    | $79.99        | high           | low    | 3      | godaddy          |
 | private.vegas | premium   | $242      | $119.94       | high           | medium | 7      | namesilo         |
+| gig.vegas     | available | $15.96    | $43.39        | high           | low    | 3      | porkbun          |
+| weekend.vegas | premium   | $242      | $119.94       | high           | low    | 7      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,259 live domains                        |
+| 1,000-row public sample | 23,813 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 36 high-demand names under $2,500          |
+| Basic exported fields   | 37 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
